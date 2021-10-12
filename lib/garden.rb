@@ -1,5 +1,5 @@
 # Something is missing here
-
+require_relative "example.rb"
 class Garden
   attr_accessor :name
 
